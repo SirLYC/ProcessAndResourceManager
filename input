@@ -1,0 +1,11 @@
+cr x 1
+cr p 1
+cr q 1
+cr r 1
+cr R2 1
+cr R3 2
+pl
+rs
+kill 3
+pl
+rs
